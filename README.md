@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HwNekhenite
+- 👋 Hi, I’m @HwNekhenite!
 - 👀 I’m interested in game dev and programming!!
-- 🌱 I’m currently learning how to create cool games!
+- 🌱 I’m currently learning how to create cool games.
 - 💞️ I’m looking to collaborate on game development or programming projects.
 - 📫 Email: hongwei.nekhenite@gmail.com
 - 😄 Pronouns: he/him
